@@ -225,3 +225,6 @@ Finally, the last big part of this project was the API. I had never used an API 
   ```
   
 </details>
+
+## Conclusion
+I learned a lot from this project and had a blast solving problems and picking up new tricks. Working with Django was a blast and I am glad to now have experience working with an API. What I really learned from this project was that you aren't expected or required to know everything about the project you are working on going into it; you learn more and more about the task at hand as you progress and research the parts you are confused about in order to accomplish the challenge you have. I also learned a lot about Django, Python, and APIs that I hope to use in future projects.
