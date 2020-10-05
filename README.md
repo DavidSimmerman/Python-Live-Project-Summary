@@ -72,15 +72,15 @@ The Django framework allows a built in form for a developer to add input into th
   ```
   
   </details>
-  I am happy with the final product; however, I wish I had more time to add half stars. This would add a little more depth and user experience to the project.
+I am happy with the final product; however, I wish I had more time to add half stars. This would add a little more depth and user experience to the project.
 
-  ### Search System
-  As I started using the website in testing, I realized I needed to add a search system to sort through movies and reviews. I created two javascript search functions. One would search through movies while the other searched through reviews. The only main difference between the two was the tags that it searched for.
+### Search System
+As I started using the website in testing, I realized I needed to add a search system to sort through movies and reviews. I created two javascript search functions. One would search through movies while the other searched through reviews. The only main difference between the two was the tags that it searched for.
   
 <details>
   <summary>Javascript Movie Search Function</summary>
   
-  '''
+  ```
   function SearchMovies()
   {
       console.log("run")
@@ -108,7 +108,7 @@ The Django framework allows a built in form for a developer to add input into th
 
       }
   }
-  '''
+  ```
 
 </details>
 
