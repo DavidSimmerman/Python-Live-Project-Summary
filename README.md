@@ -83,7 +83,6 @@ As I started using the website in testing, I realized I needed to add a search s
   ```
   function SearchMovies()
   {
-      console.log("run")
       search_string = document.getElementById("js_movie_search").value.toLowerCase();
       search_words = search_string.split(" ");
 
